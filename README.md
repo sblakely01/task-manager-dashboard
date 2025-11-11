@@ -37,4 +37,4 @@ This is a solution to an academic assignment to build a task manager dashboard u
 ## Author
 
 - Website - [Stephanye Blakely](https://www.stephanyeblakely.com)
-- LinkedIn - [Stephanye-Blakely](https://www.linkedIn.com/in/stephanye-blakely)# Form Validation Exercise
+- LinkedIn - [Stephanye-Blakely](https://www.linkedIn.com/in/stephanye-blakely)
