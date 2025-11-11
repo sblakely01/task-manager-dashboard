@@ -14,7 +14,7 @@ This is a solution to an academic assignment to build a task manager dashboard u
 
 ### Screenshot
 
-![](./images/Screenshot%202025-09-29%20233216.png)
+![]('./images/Screenshot%202025-09-29%20233216.png')
 
 ### Features
 
