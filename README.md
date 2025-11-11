@@ -4,18 +4,17 @@ This is a solution to an academic assignment to build a task manager dashboard u
 
 ## Table of Contents
 
-- [Overview] (#overview)
- - [Screenshot] (#screenshot)
- - [Features] (#features)
- - [Built-with] (#built-with)
+- [Overview](#overview)
+ - [Screenshot](#screenshot)
+ - [Features](#features)
+ - [Built-with](#built-with)
 - [Author](#author)
 
 ## Overview
 
 ### Screenshot
 
-![]('./images/Screenshot%202025-09-29%20233216.png')
-
+![](./src/assets/Screenshot%202025-11-10%20214756.png)
 ### Features
 
 #### Field Validation:
